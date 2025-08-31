@@ -2,6 +2,8 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
+NAME : PRIYANKA P
+REG NO.: 212224230212
 
 # AIM:
 To practice Linux Commands and Shell Scripting
